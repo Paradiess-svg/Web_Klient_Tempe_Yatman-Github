@@ -1998,7 +1998,7 @@ progress {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #0E752E;
   background-color: #fff;
   background-clip: padding-box;
   border: 1px solid #ced4da;
@@ -2020,7 +2020,7 @@ progress {
   cursor: pointer;
 }
 .form-control:focus {
-  color: #212529;
+  color: #0E752E;
   background-color: #fff;
   border-color: #ffe480;
   outline: 0;
@@ -2046,7 +2046,7 @@ progress {
   margin: -0.375rem -0.75rem;
   -webkit-margin-end: 0.75rem;
           margin-inline-end: 0.75rem;
-  color: #212529;
+  color: #0E752E;
   background-color: #e9ecef;
   pointer-events: none;
   border-color: inherit;
@@ -2071,7 +2071,7 @@ progress {
   padding: 0.375rem 0;
   margin-bottom: 0;
   line-height: 1.5;
-  color: #212529;
+  color: #0E752E;
   background-color: transparent;
   border: solid transparent;
   border-width: 1px 0;
@@ -2150,7 +2150,7 @@ textarea.form-control-lg {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #0E752E;
   background-color: #fff;
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e");
   background-repeat: no-repeat;
@@ -10878,7 +10878,7 @@ p {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #212529;
+  background-color: #0E752E;
 }
 #mainNav .navbar-toggler {
   padding: 0.75rem;
